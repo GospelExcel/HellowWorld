@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HellowWorld</string>
+    <string name="gospel_intro">Hello World! I\'m Gospel! I\'m excited to learn about android development and I\'m allergic to dogs!</string>
+    <string name="helloButton">Say Hello!</string>
+</resources>
